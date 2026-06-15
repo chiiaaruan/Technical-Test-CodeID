@@ -132,7 +132,7 @@ Technical-Test-CodeID
 
 ---
 
-**# 🛠 Technologies**
+# 🛠 Technologies
 
 - Database: PostgreSQL
 - Database Management Tool: Navicat
@@ -141,7 +141,7 @@ Technical-Test-CodeID
 
 ---
 
-**# 🎯 System Analyst Approach**
+# 🎯 System Analyst Approach
 
 This project focuses not only on database implementation but also on understanding business processes and translating them into technical solutions.
 The design covers:
@@ -154,7 +154,7 @@ The design covers:
 
 ---
 
-**# 👩 Author**
+# 👩 Author
 
 **Anastasia Rugun Christiany**  
 System Analyst Technical Assessment  
