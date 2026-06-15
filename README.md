@@ -127,10 +127,10 @@ Technical-Test-CodeID
 │   ├── Test Online - SA CODE.ID.xlsx
 │   ├── create_schema_table.sql
 │   ├── insert_dummy_data.sql
-│   ├── insert_dummy_data.sql
 │   └── summary_query.sql
 │
 └── README.md
+```
 
 ---
 
