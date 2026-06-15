@@ -33,6 +33,7 @@ Contribution rates are determined based on the kavling status and calculated per
 | Dihuni | Rp100.000 | Rp100.000 |
 | Tidak Dihuni | Rp100.000 | Rp50.000 |
 | Kosong | Rp50.000 | Rp50.000 |
+
 For kavlings with a land area of 200 m², the contribution amount is multiplied by 2.
 
 ---
@@ -43,6 +44,7 @@ The RT has mandatory monthly expenses:
 |---|---:|
 | Kebersihan | Rp2.000.000 |
 | Keamanan | Rp8.000.000 |
+
 Total fixed monthly expenses: **Rp10.000.000**
 
 Additional expenses such as:
