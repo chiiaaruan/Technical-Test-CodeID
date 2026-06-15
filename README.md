@@ -122,12 +122,18 @@ Expected result:
 Technical-Test-CodeID
 │
 ├── CODE.ID
-│   ├── ERD code.id.jpg
-│   ├── Test Online - SA CODE.ID.pdf
-│   ├── Test Online - SA CODE.ID.xlsx
-│   ├── create_schema_table.sql
-│   ├── insert_dummy_data.sql
-│   └── summary_query.sql
+│   ├── 00_ERD_code.id.jpg
+│   ├── 01_create_schema.sql
+│   ├── 02_create_table.sql
+│   ├── 03_insert_data_owner.sql
+│   ├── 04_insert_data_kavling.sql
+│   ├── 05_insert_data_iuran.sql
+│   ├── 06_insert_data_pembayaran.sql
+│   ├── 07_insert_detail_pembayaran.sql
+│   ├── 08_insert_data_pengeluaran.sql
+│   ├── 09_summary_query.sql
+│   ├── 10_Test Online - SA CODE.ID.xlsx
+│   └── Test Online - SA CODE.ID.pdf
 │
 └── README.md
 ```
